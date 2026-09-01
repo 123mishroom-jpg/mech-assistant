@@ -20,7 +20,7 @@ LLM_MODEL=deepseek-chat
 2. 安装依赖并启动：
 
 ```powershell
-cd C:\Users\70265\Projects\mech-qa-assistant
+cd C:Projects\mech-qa-assistant
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r backend\requirements.txt
